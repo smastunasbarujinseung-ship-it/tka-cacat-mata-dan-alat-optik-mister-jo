@@ -1,0 +1,6 @@
+{
+  "name": "FISIKA JENIUS - TKA Master Class Alat Optik & Cacat Mata",
+  "description": "Aplikasi latihan interaktif 30 soal HOTS penalaran Fisika TKA 2026 Alat-Alat Optik dan Cacat Mata bersama Mister Jo. Dilengkapi TTS bahasa Indonesia, bank rumus, diagram akurat, dan trik cepat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
